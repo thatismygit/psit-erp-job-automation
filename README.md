@@ -18,9 +18,18 @@ This app:
 
 ## 🌐 Live Demo
 
-Deployed using **Streamlit Cloud**
+Visit the deployed app here:
 
-Run locally:
+👉 https://2401640140334.streamlit.app/
+
+Click **"Run Job Automation"** to execute the workflow.
+
+---
+
+## ⚙️ Local Setup
+
+### 1️⃣ Clone Repository
 
 ```bash
-streamlit run main.py
+git clone https://github.com/YOUR_USERNAME/erp-job-automation.git
+cd erp-job-automation
